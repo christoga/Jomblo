@@ -1,4 +1,4 @@
-function jomblog() {
+function jomblo() {
     var person = prompt("Siapa namanya?");
 
     if (person != null) {
