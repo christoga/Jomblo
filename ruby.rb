@@ -2,4 +2,4 @@
 
 puts "Halo siapa namanya?"
 name = gets
-puts "Hello " + name + ". How are you?"
+puts "Halo " + name + ","
